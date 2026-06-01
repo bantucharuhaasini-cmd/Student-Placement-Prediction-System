@@ -7,7 +7,10 @@ This project predicts whether a student is likely to get placed based on academi
 The application is built using Python, Scikit-learn, and Streamlit.
 
 ---
-
+## 🚀 Live Demo
+Click the badge above or use this direct link to test the live prediction system:  
+👉 **[Launch Streamlit Web App](https://student-placement-prediction-system-gfamweqrnwvqrwodyxmzqc.streamlit.app/)**
+---
 ## 🚀 Features
 
 - Predicts student placement status
